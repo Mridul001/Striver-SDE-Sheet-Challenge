@@ -1,3 +1,4 @@
-# Striver-SDE-Sheet-Challenge
-Taking up the Striver-Sde-Sheet-Challenge. Will be adding solutions of all the questions of SDE sheet by Striver within 60 days. 
-:)
+# Striver-SDE-Sheet-Solutions
+This repository consists of solutions of all the questions solved from the Striver's SDE Sheet.
+# Link for the Sheet
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
